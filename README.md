@@ -1,9 +1,8 @@
-# Hi, I'm Chris 👋🏼
+Hi, I'm Chris 👋🏼
 
-I design and code. And I like to play in the space between the two. Here I
-create tools for web and Node.js application development and prototyping.
+I design and code and love working in the space between the two.
 
-## Highlights
+Here I create tools for web and Node.js app development and prototyping.
 
 - [Unicode Picker](https://chriscalo.github.io/unicode-picker/): a searchable
   Unicode character picker for the browser
