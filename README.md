@@ -1,4 +1,4 @@
-Hi, I'm Chris 👋🏼
+## Hi, I'm Chris 👋🏼
 
 I design and code and love working in the space between the two.
 
